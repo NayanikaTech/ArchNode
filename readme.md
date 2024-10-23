@@ -18,14 +18,14 @@ npm install
 
 The following packages are included in the project:
 
-- [bcrypt: A library for hashing passwords] (https://www.npmjs.com/package/bcrypt).
-- [dotenv: A module to load environment variables from a .env file] (https://www.npmjs.com/package/dotenv).
-- [express: A fast, unopinionated, minimalist web framework for Node.js] (https://www.npmjs.com/package/express).
-- [joi: A powerful schema description language and data validator for JavaScript] (https://www.npmjs.com/package/joi).
-- [jsonwebtoken: A library to sign and verify JSON Web Tokens (JWT)] (https://www.npmjs.com/package/jsonwebtoken).
-- [moment: A library for parsing, validating, manipulating, and formatting dates] (https://www.npmjs.com/package/moment).
-- [mongoose: An ODM (Object Data Modeling) library for MongoDB and Node.js] (https://www.npmjs.com/package/mongoose).
-- [mongoose-paginate-v2: A plugin for pagination with Mongoose] (https://www.npmjs.com/package/mongoose-paginate-v2).
-- [nodemon: A tool that helps develop Node.js applications by automatically restarting the server when file changes are detected] (https://www.npmjs.com/package/nodemon).
-- [winston: A versatile logging library for Node.js] (https://www.npmjs.com/package/winston).
-- [jest: A delightful JavaScript testing framework with a focus on simplicity] (https://www.npmjs.com/package/jest).
+- [bcrypt](https://www.npmjs.com/package/bcrypt): A library for hashing passwords.
+- [dotenv](https://www.npmjs.com/package/dotenv): A module to load environment variables from a .env file.
+- [express](https://www.npmjs.com/package/express): A fast, unopinionated, minimalist web framework for Node.js.
+- [joi](https://www.npmjs.com/package/joi): A powerful schema description language and data validator for JavaScript.
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken): A library to sign and verify JSON Web Tokens (JWT).
+- [moment](https://www.npmjs.com/package/moment): A library for parsing, validating, manipulating, and formatting dates.
+- [mongoose](https://www.npmjs.com/package/mongoose): An ODM (Object Data Modeling) library for MongoDB and Node.js.
+- [mongoose-paginate-v2](https://www.npmjs.com/package/mongoose-paginate-v2): A plugin for pagination with Mongoose.
+- [nodemon](https://www.npmjs.com/package/nodemon): A tool that helps develop Node.js applications by automatically restarting the server when file changes are detected.
+- [winston](https://www.npmjs.com/package/winston): A versatile logging library for Node.js.
+- [jest](https://www.npmjs.com/package/jest): A delightful JavaScript testing framework with a focus on simplicity.
